@@ -1,0 +1,6 @@
+[package]
+name = "ch09-s02-recoverable-result"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "ch07-s05-reexport"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
