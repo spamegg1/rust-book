@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "c10-s02-generic-types"
+name = "ch10-s02-generic-types"
 version = "0.1.0"
