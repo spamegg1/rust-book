@@ -1,0 +1,6 @@
+[package]
+name = "ch11-s01-how-to-write-tests"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
