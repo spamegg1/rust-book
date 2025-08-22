@@ -1,5 +1,5 @@
 [package]
-name = "ch11-s02-testing-eq"
+name = "ch11-s02-controlling-tests"
 version = "0.1.0"
 edition = "2021"
 

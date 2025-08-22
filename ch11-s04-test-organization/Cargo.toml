@@ -1,6 +1,0 @@
-[package]
-name = "ch11-s04-test-organization"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
